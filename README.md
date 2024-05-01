@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Programmer from Ukraine</h3>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Developer;MERN%20Stack%20Developer;2+%20years%20of%20experience;Going%20to%20SUCESS&font=Pacifico&center=true&width=650&height=120&color=FFC200&vCenter=true&size=45%22"></img>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Developer;MERN%20Stack%20Developer;ASP.NET%20Expert;Going%20to%20SUCESS&font=Pacifico&center=true&width=650&height=120&color=FFC200&vCenter=true&size=45%22"></img>
 </p>
 <br>
 
